@@ -8,8 +8,7 @@ import javax.imageio.ImageIO;
  */
 public class RedChannel extends Filter
 {
-    // instance variables - replace the example below with your own
-    private int x;
+    
 
     /**
      * Constructor for objects of class RedChannel
