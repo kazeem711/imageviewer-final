@@ -6,7 +6,7 @@
  * @author Michael Kölling and David J. Barnes.
  * @version 1.0
  */
-public abstract class Filter
+public abstract class Filter 
 {
     private String name;
 
