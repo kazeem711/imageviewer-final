@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=GreenChannel
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ GreenChannel\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Green\ Channel\:\ a\ filter\ that\ will\ turn\ the\ image\ to\ green\ \r\n\r\n\ @author\ Kazeem\ Azeez\r\n\ @version\ 2019.19.11\r\n
 comment1.params=name
 comment1.target=GreenChannel(java.lang.String)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GreenChannel\r\n
