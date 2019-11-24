@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=BlueChannel
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ BlueChannel\ here.\r\n\r\n\ @author\ Kazeem\ Azeez\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Blue\ Channel\:\ a\ filter\ that\ will\ change\ an\ image\ to\ blue\r\n\r\n\ @author\ Kazeem\ Azeez\r\n\ @version\ 2019.20.11\r\n
 comment1.params=name
 comment1.target=BlueChannel(java.lang.String)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BlueChannel\r\n
