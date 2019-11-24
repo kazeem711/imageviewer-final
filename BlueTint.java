@@ -2,8 +2,8 @@
 /**
  * Blue Tint: a filter tha gives a image a bright tint of blue.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Kazeem Azeez
+ * @version 2019.19.11
  */
 public class BlueTint extends Filter
 {
