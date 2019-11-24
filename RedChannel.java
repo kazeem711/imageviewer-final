@@ -1,10 +1,10 @@
 import java.awt.image.BufferedImage; 
 import javax.imageio.ImageIO; 
 /**
- * Write a description of class RedChannel here.
+ * Red Channel: a filter that changes tge image to red
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Kazeem Azeez
+ * @version 2019.17.11
  */
 public class RedChannel extends Filter
 {
