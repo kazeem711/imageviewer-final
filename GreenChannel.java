@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class GreenChannel here.
+ * Green Channel: a filter that will turn the image to green 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Kazeem Azeez
+ * @version 2019.19.11
  */
 public class GreenChannel extends Filter
 {
