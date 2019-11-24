@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class BlueChannel here.
+ * Blue Channel: a filter that will change an image to blue
  *
  * @author Kazeem Azeez
- * @version (a version number or a date)
+ * @version 2019.20.11
  */
 public class BlueChannel extends Filter
 {
